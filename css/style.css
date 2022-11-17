@@ -111,6 +111,14 @@ body {
     margin-right: 0px;
 }
 
+.figure1{
+    margin-left: 0px;
+    margin-bottom: 0cm;
+    margin-right: 0px;
+
+}
+
+
 .figcap{
     margin-left: 0px;
     margin-bottom: 30px;
@@ -119,8 +127,32 @@ body {
     font-size: 24px;
 }
 
+.figcap1{
+    font-size: 18px;
+}
+
 .teg{
     font-size: 20px;
 
 }
 
+.bor{
+    border: 1px solid;
+    width: 70%;
+    height: 50%;
+}
+
+.teg{
+    border-bottom-style: solid;
+    border-bottom-color: navy ;
+    color: navy;
+}
+
+ul li::marker {
+    color: navy;
+}
+
+.pgray{
+    font-size: 20px;
+    color: black;
+}
