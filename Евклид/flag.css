@@ -1,0 +1,23 @@
+.main{
+    height: 600px;
+}
+
+.White{
+background: White;
+height: 200px;
+}
+
+.Blue{
+background: blue;
+height: 200px;
+}
+
+.Red{
+background: red;
+height: 200px;
+}
+.zvezda{
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
